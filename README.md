@@ -46,10 +46,10 @@ Atuo como Jovem Aprendiz na área administrativa da **M. Dias Branco** e curso *
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+<a href="www.linkedin.com/in/raissa-kelly-sousa" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=F4C2C2" />
 </a>
-<a href="mailto:SEU_EMAIL" target="_blank">
+<a href="raissakellysz00@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-0D0D0D?style=flat-square&logo=gmail&logoColor=F4C2C2" />
 </a>
 
