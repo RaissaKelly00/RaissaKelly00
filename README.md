@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D0D0D,100:F4C2C2&height=120&section=header" width="100%"/>
-
 # Raissa Kelly
 
 **Back-end Developer (Python) · Estudante de Análise e Desenvolvimento de Sistemas**
@@ -35,8 +33,8 @@ Atuo como Jovem Aprendiz na área administrativa da **M. Dias Branco** e curso *
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=F4C2C2&icon_color=F4C2C2&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=F4C2C2&text_color=ffffff" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RaissaKelly00&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=F4C2C2&icon_color=F4C2C2&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaKelly00&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=F4C2C2&text_color=ffffff" width="38%" />
 
 </div>
 
@@ -46,10 +44,10 @@ Atuo como Jovem Aprendiz na área administrativa da **M. Dias Branco** e curso *
 
 <div align="center">
 
-<a href="www.linkedin.com/in/raissa-kelly-sousa" target="_blank">
+<a href="https://www.linkedin.com/in/raissa-kelly-sousa" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=F4C2C2" />
 </a>
-<a href="raissakellysz00@gmail.com" target="_blank">
+<a href="mailto:raissakellysz00@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-0D0D0D?style=flat-square&logo=gmail&logoColor=F4C2C2" />
 </a>
 
