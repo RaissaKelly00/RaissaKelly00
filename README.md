@@ -1,6 +1,6 @@
 <div align="center">
 
-# Raissa Kelly
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:F4C2C2&height=150&section=header&text=Raissa%20Kelly&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%"/>
 
 **Back-end Developer (Python) · Estudante de Análise e Desenvolvimento de Sistemas**
 
