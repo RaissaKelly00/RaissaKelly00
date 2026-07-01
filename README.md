@@ -33,8 +33,8 @@ Atuo como Jovem Aprendiz na área administrativa da **M. Dias Branco** e curso *
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaissaKelly00&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=F4C2C2&icon_color=F4C2C2&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaKelly00&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=F4C2C2&text_color=ffffff" width="38%" />
+<img src="https://img.shields.io/github/followers/RaissaKelly00?style=flat-square&color=F4C2C2&labelColor=0D0D0D&label=followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RaissaKelly00&label=repos%20p%C3%BAblicos&query=public_repos&color=F4C2C2&labelColor=0D0D0D&style=flat-square" />
 
 </div>
 
