@@ -8,15 +8,25 @@
 
 <br>
 
-## Sobre
+<div align="center">
+
+**Sobre**
+
+<img src="https://placehold.co/700x2/F4C2C2/F4C2C2.png" width="60%"/>
+
+</div>
 
 Atuo como Jovem Aprendiz na área administrativa da **M. Dias Branco** e curso **Análise e Desenvolvimento de Sistemas** pela UNIASSELVI. Tenho foco em desenvolvimento back-end com Python, com interesse em construir soluções práticas e bem estruturadas.
 
 <br>
 
-## Stack
-
 <div align="center">
+
+**Stack**
+
+<img src="https://placehold.co/700x2/F4C2C2/F4C2C2.png" width="60%"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=F4C2C2" />
 <img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=flat-square&logo=fastapi&logoColor=F4C2C2" />
@@ -29,20 +39,13 @@ Atuo como Jovem Aprendiz na área administrativa da **M. Dias Branco** e curso *
 
 <br>
 
-## GitHub Stats
-
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/RaissaKelly00?style=flat-square&color=F4C2C2&labelColor=0D0D0D&label=followers" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RaissaKelly00&label=repos%20p%C3%BAblicos&query=public_repos&color=F4C2C2&labelColor=0D0D0D&style=flat-square" />
+**Contato**
 
-</div>
+<img src="https://placehold.co/700x2/F4C2C2/F4C2C2.png" width="60%"/>
 
-<br>
-
-## Contato
-
-<div align="center">
+<br><br>
 
 <a href="https://www.linkedin.com/in/raissa-kelly-sousa" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=F4C2C2" />
@@ -57,4 +60,12 @@ Atuo como Jovem Aprendiz na área administrativa da **M. Dias Branco** e curso *
 
 <div align="center">
 <sub>— Em constante aprendizado e construção —</sub>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,100:1a1a1a&height=120&section=footer" width="100%"/>
+
 </div>
