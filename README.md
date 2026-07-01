@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:F4C2C2&height=150&section=header&text=Raissa%20Kelly&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:F4C2C2&height=120&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&pause=1000&color=F4C2C2&center=true&vCenter=true&width=500&height=60&lines=Raissa+Kelly" />
 **Back-end Developer (Python) · Estudante de Análise e Desenvolvimento de Sistemas**
 
 </div>
