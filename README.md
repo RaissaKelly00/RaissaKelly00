@@ -26,13 +26,13 @@ Atuo como Jovem Aprendiz na área administrativa da **M. Dias Branco** e curso *
 
 **Back-end**
 <br>
-<img src="https://skillicons.dev/icons?i=python,fastapi,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,git,github&theme=dark" />
 
 <br><br>
 
 **Front-end**
 <br>
-<img src="https://skillicons.dev/icons?i=html,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" />
 
 <br><br>
 
@@ -49,12 +49,6 @@ Atuo como Jovem Aprendiz na área administrativa da **M. Dias Branco** e curso *
 </div>
 
 ---
-
-
-
-<br>
-
-<div align="center">
 
 **Contato**
 
