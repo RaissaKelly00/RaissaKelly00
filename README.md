@@ -38,7 +38,7 @@ Atuo como Jovem Aprendiz na área administrativa da **M. Dias Branco** e curso *
 
 **Ferramentas**
 <br>
-<img src="https://skillicons.dev/icons?i=vscode,linux,docker,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,docker,postman&theme=dark" />
 
 </div>
 
