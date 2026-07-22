@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&pause=1000&color=F4C2C2&center=true&vCenter=true&width=500&height=60&lines=Raissa+Kelly" />
 
-**Back-end Developer (Python) · Estudante de Análise e Desenvolvimento de Sistemas**
+**· Estudante de Análise e Desenvolvimento de Sistemas**
 
 </div>
 
