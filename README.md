@@ -20,6 +20,30 @@
 
 Atuo como Jovem Aprendiz na área administrativa da **M. Dias Branco** e curso **Análise e Desenvolvimento de Sistemas** pela UNIASSELVI. Tenho foco em desenvolvimento back-end com Python, com interesse em construir soluções práticas e bem estruturadas.
 
+<div align="center">
+
+### 🚀 Tecnologias em uso
+
+**Back-end**
+<br>
+<img src="https://skillicons.dev/icons?i=python,fastapi,git,github&theme=dark" />
+
+<br><br>
+
+**Bancos de Dados**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark" />
+
+<br><br>
+
+**Ferramentas**
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,linux,docker,postman&theme=dark" />
+
+</div>
+
+---
+
 <br>
 
 <div align="center">
