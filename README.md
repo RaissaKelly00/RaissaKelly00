@@ -48,20 +48,7 @@ Atuo como Jovem Aprendiz na área administrativa da **M. Dias Branco** e curso *
 
 <div align="center">
 
-**Stack**
 
-<img src="https://placehold.co/700x2/F4C2C2/F4C2C2.png" width="60%"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=F4C2C2" />
-<img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=flat-square&logo=fastapi&logoColor=F4C2C2" />
-<img src="https://img.shields.io/badge/SQLAlchemy-0D0D0D?style=flat-square&logo=sqlite&logoColor=F4C2C2" />
-<img src="https://img.shields.io/badge/SQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=F4C2C2" />
-<img src="https://img.shields.io/badge/Streamlit-0D0D0D?style=flat-square&logo=streamlit&logoColor=F4C2C2" />
-<img src="https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=F4C2C2" />
-
-</div>
 
 <br>
 
